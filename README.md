@@ -69,7 +69,9 @@
   <a href="https://www.linkedin.com/in/mayank-sharma-0979491b6/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" />
   </a>
+  <span style="font-size: 1.1em;">&nbsp; <strong><a href="https://www.linkedin.com/in/mayank-sharma-0979491b6/" target="_blank" rel="noreferrer">LinkedIn</a></span>
 </p>
+
 
 <p align="left">
   <a href="mailto:Mayankpsharma@hotmail.com" target="_blank" rel="noreferrer">
