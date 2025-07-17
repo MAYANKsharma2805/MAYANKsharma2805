@@ -3,8 +3,7 @@
 
 # 👋 Hi, I’m **Mayank Sharma**
 
-🚀 Motivated Software QA Tester (Intern @ AI Unika Technologies), skilled in Manual & Automation Testing  
-   Passionate about delivering bug‑free software and scalable automation frameworks.
+🚀 Motivated Software QA Tester (Intern @ AI Unika Technologies), skilled in Manual & Automation Testing Passionate about delivering bug‑free software and scalable automation frameworks.
 
 ---
 
