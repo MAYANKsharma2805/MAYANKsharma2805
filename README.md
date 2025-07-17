@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://www.canva.com/design/DAGtbHnJSGw/yTQM0foWCdN9VUmAxwAgsg/watch?utm_content=DAGtbHnJSGw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h582e5aaa53" target="_blank">
-    <img src="https://github.com/MAYANKsharma2805/MAYANKsharma2805/assets/banner-placeholder.png" alt="Mayank's GitHub Banner" style="max-width:100%;">
+  <a href="https://www.canva.com/design/DAGtbHnJSGw/yTQM0foWCdN9VUmAxwAgsg/watch?utm_content=DAGtbHnJSGw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks" target="_blank">
+    <img src="https://raw.githubusercontent.com/MAYANKsharma2805/MAYANKsharma2805/main/banner_thumbnail.jpg" alt="Click to Watch Banner" width="100%" />
   </a>
 </p>
 
