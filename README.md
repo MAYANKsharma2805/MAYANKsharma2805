@@ -1,17 +1,3 @@
-<div style="background: linear-gradient(to right, #0f2027, #203a43, #2c5364); padding: 40px; text-align: center; border-radius: 12px; box-shadow: 0 0 20px rgba(0,0,0,0.5);">
-  <h1 style="color: #ff4c4c; font-size: 2.5em; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; animation: blinkText 1.5s infinite;">
-    Where Code Ends, Testing Begins.
-  </h1>
-</div>
-
-<style>
-@keyframes blinkText {
-  0% { opacity: 1; }
-  50% { opacity: 0; }
-  100% { opacity: 1; }
-}
-</style>
-
 ---
 
 # 👋 Hi, I’m **Mayank Sharma**
