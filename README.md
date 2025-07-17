@@ -31,4 +31,4 @@
 ## 🔗 Connect with Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/mayank-sharma-0979491b6/) – “Software QA Tester | Manual & Automation Testing | Selenium | Playwright | Core Java | SQL | JIRA | Passionate about Delivering Bug‑Free Software” :contentReference[oaicite:1]{index=1}  
-- 📧 Email: **mayanksharma2805@gmail.com**
+- 📧 Email: **Mayankpsharma@hotmail.com**
