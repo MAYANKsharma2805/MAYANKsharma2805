@@ -26,19 +26,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAYANKsharma2805&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-
-
----
-
-## 📂 Selected Projects
-
-| Project | Description | Tools |
-|--------|-------------|-------|
-| [Selenium-Hybrid-Framework](https://github.com/MAYANKsharma2805/Selenium-Hybrid-Framework) | Hybrid automation framework using Selenium + TestNG (POM) | Java, Maven |
-| [Cypress-Dashboard-Test](https://github.com/MAYANKsharma2805/Cypress-Dashboard-Test) | UI automation for dashboards | Cypress, JS |
-| [Manual-Testing-Docs](https://github.com/MAYANKsharma2805/Manual-Testing-Docs) | Test cases, bug reports, RTM | Markdown, Excel |
-| [Playwright-E2E-Testing](https://github.com/MAYANKsharma2805/Playwright-E2E-Testing) | End-to-end & visual regression tests | Playwright, Python |
-
 ---
 
 ## 🔗 Connect with Me
