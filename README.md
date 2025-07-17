@@ -1,5 +1,3 @@
----
-
 # 👋 Hi, I’m **Mayank Sharma**
 
 🚀 Motivated Software QA Tester (Intern @ AI Unika Technologies), skilled in Manual & Automation Testing Passionate about delivering bug‑free software and scalable automation frameworks.
@@ -67,5 +65,16 @@
 
 ## 🔗 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/mayank-sharma-0979491b6/) – “Software QA Tester | Manual & Automation Testing | Selenium | Playwright | Core Java | SQL | JIRA | Passionate about Delivering Bug‑Free Software” :contentReference[oaicite:1]{index=1}  
-- 📧 Email: **Mayankpsharma@hotmail.com**
+<p align="left">
+  <a href="https://www.linkedin.com/in/mayank-sharma-0979491b6/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" />
+  </a>
+  <span style="font-size: 1.1em;">&nbsp; <strong>LinkedIn</strong> – <em>Software QA Tester | Manual & Automation Testing | Selenium | Playwright | Core Java | SQL | JIRA | Passionate about Delivering Bug‑Free Software</em></span>
+</p>
+
+<p align="left">
+  <a href="mailto:Mayankpsharma@hotmail.com" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="Email" width="40" height="40" />
+  </a>
+  <span style="font-size: 1.1em;">&nbsp; <strong>Email</strong>: <em>Mayankpsharma@hotmail.com</em></span>
+</p>
