@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://your-image-link-here.com/banner.png" alt="Header Image"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
-
 ---
 
 # 👋 Hi, I’m **Mayank Sharma**
@@ -29,7 +28,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAYANKsharma2805&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+
 
 ---
 
