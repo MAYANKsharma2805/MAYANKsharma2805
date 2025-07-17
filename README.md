@@ -29,6 +29,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAYANKsharma2805&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+
 ---
 
 ## 📂 Selected Projects
