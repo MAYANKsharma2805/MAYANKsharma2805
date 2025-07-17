@@ -50,7 +50,7 @@
     <img src="https://www.vectorlogo.zone/logos/cucumberio/cucumberio-icon.svg" alt="cucumber" width="40" height="40"/>
   </a>
   <a href="https://testng.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/TestNG_Logo.png" alt="testng" width="40" height="40"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/TestNG_Logo.png" alt="testng" width="40" height="40"/>
   </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
