@@ -1,11 +1,3 @@
-<p align="center">
-  <a href="https://www.canva.com/design/DAGtbHnJSGw/yTQM0foWCdN9VUmAxwAgsg/watch?utm_content=DAGtbHnJSGw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks" target="_blank">
-    <img src="https://raw.githubusercontent.com/MAYANKsharma2805/MAYANKsharma2805/main/banner_thumbnail.jpg" alt="Click to Watch Banner" width="100%" />
-  </a>
-</p>
-
----
-
 # 👋 Hi, I’m **Mayank Sharma**
 
 🚀 Motivated Software QA Tester (Intern @ AI Unika Technologies), skilled in Manual & Automation Testing  
@@ -64,7 +56,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MAYANKsharma2805&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAYANKsharma2805&layout=compact&theme=radical" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAYANKsharma2805&layout=compact&theme=tokyonight" />
+
 </p>
 
 ---
