@@ -49,9 +49,6 @@
   <a href="https://cucumber.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/cucumberio/cucumberio-icon.svg" alt="cucumber" width="40" height="40"/>
   </a>
-  <a href="https://testng.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/testng-3629364-3032166.png" alt="testng" width="40" height="40"/>
- </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
   </a>
