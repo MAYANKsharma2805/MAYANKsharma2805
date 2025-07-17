@@ -69,8 +69,9 @@
   <a href="https://www.linkedin.com/in/mayank-sharma-0979491b6/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" />
   </a>
-  <span style="font-size: 1.1em;">&nbsp; <strong><a href="https://www.linkedin.com/in/mayank-sharma-0979491b6/" target="_blank" rel="noreferrer">LinkedIn</a></span>
+  <span style="font-size: 1.1em;">&nbsp; <strong><a href="https://www.linkedin.com/in/mayank-sharma-0979491b6/" target="_blank" rel="noreferrer">LinkedIn</a></strong> – <em>Software QA Tester | Manual & Automation Testing | Selenium | Playwright | Core Java | SQL | JIRA | Passionate about Delivering Bug‑Free Software</em></span>
 </p>
+
 
 
 <p align="left">
